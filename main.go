@@ -10,7 +10,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/mcaci/micro-fibonacci/serv"
+	"github.com/mcaci/fibonacci-service/serv"
 )
 
 func main() {
